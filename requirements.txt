@@ -1,0 +1,17 @@
+pandas
+numpy
+language_tool_python
+seaborn
+matplotlib
+spacy
+stanza
+gensim
+nltk
+scikit-learn
+datetime
+spacy
+fasttext
+scikit-learn
+gensim
+nltk
+stanza
